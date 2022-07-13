@@ -24,7 +24,7 @@
         "global-require": "off",
         "import/no-dynamic-require": "off",
         "indent": ["off", "tab"],
-        "max-lines": ["error", { "max": 100, "skipBlankLines": true, "skipComments": false }],
+        "max-lines": ["error", { "max": 300, "skipBlankLines": true, "skipComments": false }],
         "new-cap": "off",
         "no-await-in-loop": "off",
         "no-bitwise": "off",
