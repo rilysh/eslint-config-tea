@@ -1,5 +1,5 @@
 ## eslint-config-tea
-A shareable eslint config which extends and prettify airbnb eslint config rules.
+A shareable eslint config for TypeScript which extends and prettify airbnb eslint config rules.
 
 ## Install
 #### npm
